@@ -1,4 +1,4 @@
 # cpu_temp
-ARM only
+Intel, AMD, ARM
 -----------------------------------
 chmod +x cpu_temp.sh
