@@ -1,7 +1,7 @@
 # CPU Temperature
 Intel, AMD, ARM
 
-Instructions
+Instructions,
 git clone https://github.com/CyriIIe/cpu_temp/tree/main
 
 cd cpu_temp
