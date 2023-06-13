@@ -1,4 +1,4 @@
-# cpu_temp
+# CPU Temperature
 Intel, AMD, ARM
 
 git clone https://github.com/CyriIIe/cpu_temp/tree/main
